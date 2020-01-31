@@ -10,6 +10,8 @@ This is a simple introduction.
 
 Sample website with plenty of files for demos
 
+## Deployment
+
 ## How To Contribute
 
 If possible send us some potatoes(Șoseaua Națională 31, Iași 700237) as we're starving.
