@@ -17,3 +17,4 @@ I mean it, if anyone sees this message, pretty pliz send at least 1 potato.
 
 ### Copyright
 I got rights, I got soul.
+2014 Git.Training. All rights reserved.
